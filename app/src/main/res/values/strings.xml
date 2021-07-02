@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">XumaK</string>
+    <string name="API_URL">https://www.breakingbadapi.com</string>
+    <string name="Details">Details</string>
+    <string name="Like">Like</string>
+    <string name="UnLike">Unlike</string>
+    <string name="Name">Name:</string>
+    <string name="Occupation">Occupation:</string>
+    <string name="Stauts">Status:</string>
+</resources>
